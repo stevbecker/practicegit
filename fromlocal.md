@@ -4,6 +4,10 @@
 $ mkdir afolder
 $ git init
 
+
 # touch anyfile
 
 # create a new branch
+
+Now editing in the newbranch.
+
